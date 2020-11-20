@@ -3,6 +3,6 @@
 新建了future1分支
 
 
-fast forward
+fast forward 6666
 
 再次创建 dev
